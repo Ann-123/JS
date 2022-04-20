@@ -7,7 +7,7 @@ console.log(item_3);
 var item_4 = "Yolochka";
 console.log(item_4);
 console.log(item_3 + item_4);
-console.log(item_4.repeat(8));
+console.log(item_4.repeat(item_3));
 var item_5 = item_3;
 var item_6 = 15;
 var item_6_type = typeof(item_6);
